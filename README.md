@@ -1,7 +1,9 @@
 ### Hi there 👋
 
 - 🔭 83 43 8 49
-- 🌱 Learning
+- 🌱 Learning...
+- 👷 Building ...
+- 🤑 Yielding ...
 
  <div>
   <a href="https://github.com/alvarobrg">
@@ -15,18 +17,16 @@
 <img align="center" alt="Alvaro-Postgresql" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/postgresql/postgresql-original.svg">
  <img align="center" alt="Alvaro-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"> 
  | 
-
 <img align="center" alt="Alvaro-Postgresql" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/solidity/solidity-original.svg">
 <img align="center" alt="Alvaro-Bitcoin" height="40" width="50" src="https://cryptologos.cc/logos/bitcoin-btc-logo.svg?v=023">
 <img align="center" alt="Alvaro-Ethereum" height="40" width="50" src="https://cryptologos.cc/logos/ethereum-eth-logo.svg?v=023">
- 
-</div>
+<img align="center" alt="Alvaro-Uniswap" height="40" width="50" src="https://cryptologos.cc/logos/uniswap-uni-logo.svg?v=023">
+ </div>
 
   ##
 
 <div> 
   
   <a href="https://www.linkedin.com/in/alvarobrg" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  <a href = "mailto:alvarobrg@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
    
 </div>
