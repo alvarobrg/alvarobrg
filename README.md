@@ -17,10 +17,9 @@
 <img align="center" alt="Alvaro-Postgresql" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/postgresql/postgresql-original.svg">
  <img align="center" alt="Alvaro-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"> 
  | 
-<img align="center" alt="Alvaro-Postgresql" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/solidity/solidity-original.svg">
-<img align="center" alt="Alvaro-Bitcoin" height="40" width="50" src="https://cryptologos.cc/logos/bitcoin-btc-logo.svg?v=023">
-<img align="center" alt="Alvaro-Ethereum" height="40" width="50" src="https://cryptologos.cc/logos/ethereum-eth-logo.svg?v=023">
-<img align="center" alt="Alvaro-Uniswap" height="40" width="50" src="https://cryptologos.cc/logos/uniswap-uni-logo.svg?v=023">
+<img align="center" alt="Alvaro-Solidity" height="40" width="50" src="https://www.svgrepo.com/show/374088/solidity.svg">
+<img align="center" alt="Alvaro-Bitcoin" height="40" width="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/Bitcoin.svg/96px-Bitcoin.svg.png?v=023">
+<img align="center" alt="Alvaro-Ethereum" height="50" width="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Ethereum_logo_2014.svg/384px-Ethereum_logo_2014.svg.png">
  </div>
 
   ##
