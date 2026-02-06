@@ -7,8 +7,6 @@
 
  <div>
   <a href="https://github.com/alvarobrg">
-  <img width="400em" height="180em" src="https://github-readme-stats.vercel.app/api?username=alvarobrg&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
-  <img width="400em" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alvarobrg&layout=compact&langs_count=8&theme=github_dark"/>
 </div>
 
 <div style="display: inline_block"><br> 
@@ -18,8 +16,6 @@
  <img align="center" alt="Alvaro-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"> 
  | 
 <img align="center" alt="Alvaro-Solidity" height="40" width="50" src="https://www.svgrepo.com/show/374088/solidity.svg">
-<img align="center" alt="Alvaro-Bitcoin" height="40" width="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/Bitcoin.svg/96px-Bitcoin.svg.png?v=023">
-<img align="center" alt="Alvaro-Ethereum" height="50" width="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Ethereum_logo_2014.svg/384px-Ethereum_logo_2014.svg.png">
  </div>
 
   ##
